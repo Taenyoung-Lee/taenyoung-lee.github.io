@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About(Curriculum Vitae")"
-    url : https://mmistakes.github.io/minimal-mistakes/about/
+    url : /이태녕_stat_CV.pdf
   - title: "Category"
-  # url : 
+   url : /categories/
   - title: "Project"
   # url :
   - title: "Study"
