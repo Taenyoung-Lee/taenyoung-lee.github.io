@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About(Curriculum Vitae)"
-    url : /이태녕_stat_CV.pdf
+    url : /_pages/이태녕_stat_CV.pdf
   - title: "Category"
     url : /categories/
   - title: "Project"
