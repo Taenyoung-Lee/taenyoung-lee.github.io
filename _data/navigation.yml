@@ -3,7 +3,7 @@ main:
   - title: "About(Curriculum Vitae)"
     url : /이태녕_stat_CV.pdf
   - title: "Category"
-   url : /categories/
+    url : /categories/
   - title: "Project"
   # url :
   - title: "Study"
