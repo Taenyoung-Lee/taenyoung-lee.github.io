@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "TaeNyoung Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg"
   bio              : "I learn COMPUTING"
   location         : "Seoul, Korea"
   email            :
