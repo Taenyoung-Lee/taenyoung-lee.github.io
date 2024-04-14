@@ -7,6 +7,8 @@ main:
   - title: "Paper Review"
   - title: "Book Review"
     #url : /categories/
+  - title: "Studying"
+    url : /categories/
   - title: "Category"
     url : /categories/
   # - title: "Quick-Start Guide"
