@@ -106,12 +106,12 @@ analytics:
 author:
   name             : "TaeNyoung Lee"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "I learn COMPUTING"
-  location         : "Seoul, Korea"
+  bio              : "I learn both STATISTICS and NUMERICAL COMPUTING"
+  #location         : "Seoul, Korea"
   email            :
   links:
     - label: "Curriculum Vitae"
-      icon: "fas fa-fw fa-envelope-scroll"
+      icon: "fas fa-fw fa-scroll"
       url: "/_pages/이태녕_stat_CV.pdf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
