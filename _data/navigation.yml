@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "About(Curriculum Vitae)"
+  - title: "About Me(Curriculum Vitae)"
     url : /_pages/이태녕_stat_CV.pdf
-  - title: "Category"
-    url : /categories/
   - title: "Project"
   # url :
-  - title: "Study"
+  - title: "Paper Review"
+  - title: "Book Review"
+    #url : /categories/
+  - title: "Category"
+    url : /categories/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
