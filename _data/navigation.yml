@@ -1,14 +1,21 @@
 # main links
 main:
-  - title: "About Me(Curriculum Vitae)"
-    url : /_pages/이태녕_stat_CV.pdf
+  - title: "About Me"
+    children:
+      - title: "Curriculum Vitae"
+        url : /_pages/이태녕_stat_CV.pdf
+      - title: "What Interests Me"
+        #url : /_pages/이태녕_stat_CV.pdf
+      - title: "What I Learned"
+        #url : /_pages/이태녕_stat_CV.pdf
   - title: "Project"
   # url :
-  - title: "Paper Review"
-  - title: "Book Review"
-    #url : /categories/
-  - title: "Studying"
-    url : /categories/
+  - title: "Review"
+    children:
+      - title: "Paper Review"
+        #url : /_pages/이태녕_stat_CV.pdf
+      - title: "Book Review"
+        #url : /_pages/이태녕_stat_CV.pdf
   - title: "Category"
     url : /categories/
   # - title: "Quick-Start Guide"
