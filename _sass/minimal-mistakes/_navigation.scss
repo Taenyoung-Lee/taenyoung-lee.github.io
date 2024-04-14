@@ -444,7 +444,22 @@
   a {
     color: inherit;
   }
+  
+  /* 하위 목록이 항상 보이도록 수정 */
+  ul {
+    display: block;
+    opacity: 1;
+    max-height: none;
+    overflow: visible;
+    transition: none;
+    transform: none;
+  }
 
+  li {
+    display: block;
+  }
+  ///
+  
   .active {
     margin-left: -0.5em;
     padding-left: 0.5em;
