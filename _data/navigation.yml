@@ -2,8 +2,8 @@
 main:
   #- title: "About Me"
   #  children:
-  - title: "Curriculum Vitae"
-    url : /_pages/이태녕_stat_CV.pdf
+  #- title: "Curriculum Vitae"
+  #  url : /_pages/이태녕_stat_CV.pdf
   - title: "What Interests Me"
     #url : /_pages/이태녕_stat_CV.pdf
   - title: "What I Learned"
