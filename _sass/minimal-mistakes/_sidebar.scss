@@ -28,13 +28,11 @@
     }
 
     &.sticky {
-      //position: fixed; /* 프로필을 화면 상단에 고정합니다. */
-      //top: 0; //수정
       overflow-y: auto;
       /* calculate height of nav list
          viewport height - nav height - masthead x-padding
       */
-      max-height: calc(100vh - #{$nav-height} - 2em);
+      height: calc(100vh - #{$nav-height} - 2em);
     }
   }
 
@@ -65,7 +63,7 @@
 
   img {
     width: 100%;
-
+    
     &.emoji {
       width: 20px;
       height: 20px;
@@ -91,13 +89,6 @@
       position: sticky;
       top: 2em;
       float: right;
-
-      .toc {
-        .toc__menu {
-          overflow-y: auto;
-          max-height: calc(100vh - 7em);
-        }
-      }
     }
   }
 
@@ -118,6 +109,7 @@
     margin-right: 0;
   }
 }
+
 
 /*
    Author profile and links
