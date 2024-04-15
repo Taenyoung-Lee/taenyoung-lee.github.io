@@ -28,6 +28,8 @@
     }
 
     &.sticky {
+      position: fixed; /* 프로필을 화면 상단에 고정합니다. */
+      top: 0; //수정
       overflow-y: auto;
       /* calculate height of nav list
          viewport height - nav height - masthead x-padding
