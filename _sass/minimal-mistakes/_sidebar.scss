@@ -8,13 +8,13 @@
 
 .sidebar {
   @include clearfix();
-  // @include breakpoint(max-width $large) {
-  //   /* fix z-index order of follow links */
-  //   position: relative;
-  //   z-index: 10;
-  //   -webkit-transform: translate3d(0, 0, 0);
-  //   transform: translate3d(0, 0, 0);
-  // }
+  @include breakpoint(max-width $large) {
+    /* fix z-index order of follow links */
+    position: relative;
+    z-index: 10;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
 
   @include breakpoint($large) {
     float: left;
@@ -28,7 +28,7 @@
     }
 
     &.sticky {
-      position: fixed; /* 프로필을 화면 상단에 고정합니다. */
+      //position: fixed; /* 프로필을 화면 상단에 고정합니다. */
       //top: 0; //수정
       overflow-y: auto;
       /* calculate height of nav list
