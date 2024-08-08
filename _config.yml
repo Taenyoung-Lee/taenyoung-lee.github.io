@@ -16,9 +16,9 @@ minimal_mistakes_skin    :  "dark" #"default" # "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tae's Computing"
+title                    : "Taenyoung Lee"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "personal website"
 name                     : "이태녕"
 description              : "An amazing website."
 url                      : "https://taenyoung-lee.github.io"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "TaeNyoung Lee"
+  name             : #
   avatar           : "/assets/images/profile.jpg"
-  bio              : "I learn both STATISTICS and NUMERICAL COMPUTING"
+  bio              : "I learn both STATISTICS and COMPUTING"
   #location         : "Seoul, Korea"
   email            :
   links:
@@ -115,7 +115,7 @@ author:
       url: "/_pages/이태녕_stat_CV.pdf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:galaxy511@hufs.ac.kr"
+      url: "mailto:leetaenyoung@hufs.ac.kr"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Taenyoung-Lee"
