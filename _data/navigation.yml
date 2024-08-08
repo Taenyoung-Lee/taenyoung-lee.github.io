@@ -8,13 +8,13 @@ main:
     #url : /_pages/이태녕_stat_CV.pdf
   - title: "What I Learned"
     #url : /_pages/이태녕_stat_CV.pdf
-  - title: "Project"
+  - title: "Expericence & Projects"
   # url :
   #- title: "Review"
   #  children:
-  - title: "Paper Review"
+  - title: "Paper & Book Review"
     #url : /_pages/이태녕_stat_CV.pdf
-  - title: "Book Review"
+  - title: "Thanks to"
     #url : /_pages/이태녕_stat_CV.pdf
   #- title: "Category"
   #  url : /categories/
